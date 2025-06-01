@@ -1,12 +1,54 @@
-# React + Vite
+# Scientific CALCULATOR 🧮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![GitHub repo size](https://img.shields.io/github/repo-size/sendosalmansour105/Scientific-CALCULATOR)
+![GitHub stars](https://img.shields.io/github/stars/sendosalmansour105/Scientific-CALCULATOR?style=social)
+![GitHub forks](https://img.shields.io/github/forks/sendosalmansour105/Scientific-CALCULATOR?style=social)
+![GitHub issues](https://img.shields.io/github/issues/sendosalmansour105/Scientific-CALCULATOR)
 
-Currently, two official plugins are available:
+<br />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Table of Contents
 
-## Expanding the ESLint configuration
+- [About the Project](#about-the-project)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 About the Project
+
+A **simple yet functional scientific calculator** built using **HTML**, **CSS**, and **JavaScript**. It supports basic arithmetic operations, trigonometric functions, logarithms, exponentials, and more.
+
+This project is intended to practice DOM manipulation and user interaction in pure JavaScript, without relying on external libraries or frameworks.
+
+---
+
+## 🛠️ Built With
+
+- 💻 **HTML5**
+- 🎨 **CSS3**
+- ⚙️ **Vanilla JavaScript**
+
+---
+
+## 🚀 Getting Started
+
+To get a local copy up and running, follow these simple steps:
+
+### Prerequisites
+
+- Web browser (Chrome, Firefox, Edge...)
+- No installation required.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/sendosalmansour105/Scientific-CALCULATOR.git
