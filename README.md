@@ -1,25 +1,5 @@
 # Scientific CALCULATOR 🧮
 
-![GitHub repo size](https://img.shields.io/github/repo-size/sendosalmansour105/Scientific-CALCULATOR)
-![GitHub stars](https://img.shields.io/github/stars/sendosalmansour105/Scientific-CALCULATOR?style=social)
-![GitHub forks](https://img.shields.io/github/forks/sendosalmansour105/Scientific-CALCULATOR?style=social)
-![GitHub issues](https://img.shields.io/github/issues/sendosalmansour105/Scientific-CALCULATOR)
-
-<br />
-
-## 📌 Table of Contents
-
-- [About the Project](#about-the-project)
-- [Built With](#built-with)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
----
 
 ## 🧠 About the Project
 
